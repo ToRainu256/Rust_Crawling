@@ -8,7 +8,7 @@ fn get_x(latitude: f64, zoom_lev: f64){
 }
 
 fn get_y(longtitude: f64, zoom_lev: f64){
-    let y = 2.0f64.powf( zoom_lev+7.0)*std::f64::consts::FRAC_1_PI*(-1.0*(0.5*));
+    let y = 2.0f64.powf( zoom_lev+7.0)*std::f64::consts::FRAC_1_PI*(-1.0*(0.5*((1.0+longtitude)/(1.0-longtitude))f64.log());
 }
 
 
