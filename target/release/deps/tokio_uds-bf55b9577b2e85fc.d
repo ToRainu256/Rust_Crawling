@@ -1,0 +1,12 @@
+/Users/ashizawaken/Documents/kuro-ra/target/release/deps/libtokio_uds-bf55b9577b2e85fc.rlib: /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.3/src/lib.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.3/src/datagram.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.3/src/incoming.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.3/src/listener.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.3/src/recv_dgram.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.3/src/send_dgram.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.3/src/stream.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.3/src/ucred.rs
+
+/Users/ashizawaken/Documents/kuro-ra/target/release/deps/tokio_uds-bf55b9577b2e85fc.d: /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.3/src/lib.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.3/src/datagram.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.3/src/incoming.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.3/src/listener.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.3/src/recv_dgram.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.3/src/send_dgram.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.3/src/stream.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.3/src/ucred.rs
+
+/Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.3/src/lib.rs:
+/Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.3/src/datagram.rs:
+/Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.3/src/incoming.rs:
+/Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.3/src/listener.rs:
+/Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.3/src/recv_dgram.rs:
+/Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.3/src/send_dgram.rs:
+/Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.3/src/stream.rs:
+/Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/tokio-uds-0.2.3/src/ucred.rs:

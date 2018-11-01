@@ -1,0 +1,13 @@
+/Users/ashizawaken/Documents/kuro-ra/target/debug/deps/liburl-2ca4891ca35a6fdf.rlib: /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/lib.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/encoding.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/host.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/origin.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/path_segments.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/parser.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/slicing.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/form_urlencoded.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/quirks.rs
+
+/Users/ashizawaken/Documents/kuro-ra/target/debug/deps/url-2ca4891ca35a6fdf.d: /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/lib.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/encoding.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/host.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/origin.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/path_segments.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/parser.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/slicing.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/form_urlencoded.rs /Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/quirks.rs
+
+/Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/lib.rs:
+/Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/encoding.rs:
+/Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/host.rs:
+/Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/origin.rs:
+/Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/path_segments.rs:
+/Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/parser.rs:
+/Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/slicing.rs:
+/Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/form_urlencoded.rs:
+/Users/ashizawaken/.cargo/registry/src/github.com-1ecc6299db9ec823/url-1.7.1/src/quirks.rs:

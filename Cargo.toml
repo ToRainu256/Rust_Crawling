@@ -1,0 +1,11 @@
+[package]
+name = "kuro-ra"
+version = "0.1.0"
+authors = ["ashizawaken"]
+edition = "2018"
+
+[dependencies]
+hyper="*"
+hyper-rustls= "*"
+tokio-core="*"
+exec="*"
