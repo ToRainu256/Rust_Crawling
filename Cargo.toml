@@ -5,7 +5,4 @@ authors = ["ashizawaken"]
 edition = "2018"
 
 [dependencies]
-hyper="*"
-hyper-rustls= "*"
-tokio-core="*"
 exec="*"
